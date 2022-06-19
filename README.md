@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirudh Srinivasan</h1>
-<h3 align="center">A passionate frontend developer from the US</h3>
+<h3 align="center">A passionate freelance developer from the US</h3>
 
 - 🔭 I’m currently working on **cusina website**
 
