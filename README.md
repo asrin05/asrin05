@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Srinivasan</h1>
 <h3 align="center">A passionate freelance developer from the US</h3>
 
-- 🔭 I’m currently working on **Capitaliz, Sports Analytics project with Rrm**
+- 🔭 I’m currently working on **Capitaliz, Sports Analytics project with R**
 
 - 🌱 I’m currently learning **C, C++, C#, tailwind**
 
