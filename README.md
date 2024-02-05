@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Capitalize, Sports Analytics project with R**
 
-- 🌱 I’m currently learning **C, C++, C#, tailwind**
+- 🌱 I’m currently learning **R**
 
 - 📫 How to reach me **bsrin05@gmail.com**
 
